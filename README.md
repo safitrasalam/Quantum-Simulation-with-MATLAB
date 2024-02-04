@@ -9,3 +9,31 @@ During my internship in Korea Advanced Institute of Science and Technology (KAIS
 6. Plot the density matrix against time,
 7. Apply the fast Fourier transform to density matrix,
 8. Plot the FFT of density matrix against frequency.
+
+Here are the results for triangle:
+
+![Results for triangle](https://github.com/safitrasalam/Quantum-Simulation-with-MATLAB/blob/main/Quantum%20Simulation%20Code/Triangle.png)
+
+Right triangle:
+
+![Results for right triangle](https://github.com/safitrasalam/Quantum-Simulation-with-MATLAB/blob/main/Quantum%20Simulation%20Code/Right%20triangle.png)
+
+Linear: 
+
+![Results for linear](https://github.com/safitrasalam/Quantum-Simulation-with-MATLAB/blob/main/Quantum%20Simulation%20Code/Linear.png)
+
+Star (S4):
+
+![Results for S4](https://github.com/safitrasalam/Quantum-Simulation-with-MATLAB/blob/main/Quantum%20Simulation%20Code/S4.png)
+
+Complete (K4):
+
+![Results for K4](https://github.com/safitrasalam/Quantum-Simulation-with-MATLAB/blob/main/Quantum%20Simulation%20Code/K4.png)
+
+Cycle (C4):
+
+![Results for C4](https://github.com/safitrasalam/Quantum-Simulation-with-MATLAB/blob/main/Quantum%20Simulation%20Code/C4.png)
+
+Diamond (K4e):
+
+![Results for K4e](https://github.com/safitrasalam/Quantum-Simulation-with-MATLAB/blob/main/Quantum%20Simulation%20Code/K4e.png)
